@@ -2,7 +2,7 @@
   "name": "greensockdemo",
   "version": "1.0.0",
   "description": "Demo of greensock using node",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.15.2"
   },
